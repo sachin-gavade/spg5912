@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ElvisGmz)]
+[![MasterHead](https://github.com/ElvisGmz)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sachin Gavade</h1>
 <h3 align="center">E&TC Engineer | Passionate to learn new skills and technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
