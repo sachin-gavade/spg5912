@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi 👋, I'm Sachin Gavade</h1>
 <h3 align="center">E&TC Engineer | Passionate to learn new skills and technologies</h3>
